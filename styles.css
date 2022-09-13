@@ -1,0 +1,79 @@
+body {
+    background-image: url("assets/topography.png");
+    font-family: 'Courier Prime', monospace;
+}
+
+
+.header {
+    background-color:#333333 ;
+    width: 100%;
+    height: 40px;
+    padding-top: 20px;
+    font-family: 'Merriweather', serif;
+
+}
+
+.logo {
+    width:30px;
+    height: 30px;
+    position: absolute;
+    top:20px;
+    left: 20%;
+}
+
+.header a {
+    color: #ff0099;
+    margin-left: 20px;
+}
+
+#button1 {
+    margin-left: 60%;
+}
+
+.container {
+    width: 60%;
+    height: 600px;
+    margin-left:20%;
+    margin-right:20%;
+    text-align: justify;
+}
+
+#Name {
+    font-family: 'Merriweather', serif;
+    font-size: 45px;
+    margin-bottom:30px;
+    margin-top:80px;
+    font-weight: 600;    
+}
+
+#Job {
+    color:#ff0099;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    margin-bottom:30px;
+}
+
+#selector {
+    text-align: center;
+}
+
+#tech_wiki_title {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600; 
+}
+
+dt {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom:10px;
+    margin-top: 40px;
+}
+
+dd{
+     padding-left: 0px;
+     text-align: justify;
+     margin-left:0;
+}
